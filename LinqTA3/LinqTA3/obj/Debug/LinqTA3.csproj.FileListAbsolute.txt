@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\LinqTA3\LinqTA3\bin\Debug\LinqTA3.exe.config
+C:\Users\pc\source\repos\LinqTA3\LinqTA3\bin\Debug\LinqTA3.exe
+C:\Users\pc\source\repos\LinqTA3\LinqTA3\bin\Debug\LinqTA3.pdb
+C:\Users\pc\source\repos\LinqTA3\LinqTA3\obj\Debug\LinqTA3.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\LinqTA3\LinqTA3\obj\Debug\LinqTA3.exe
+C:\Users\pc\source\repos\LinqTA3\LinqTA3\obj\Debug\LinqTA3.pdb
